@@ -8,3 +8,4 @@ Printing all single digit numbers
 Prints the lowercase alphabet in reverse
 Printing all the numbers of base 16 in lowercase
 Printing all combinations of single-digit numbers
+Printing all possible combinations of two digits
