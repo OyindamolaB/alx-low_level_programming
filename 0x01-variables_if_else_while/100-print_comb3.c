@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 /**
 * main - Entry point
 *
@@ -22,5 +22,6 @@ putchar(',');
 putchar(' ');
 }
 putchar('\n');
+
 return (0);
 }
