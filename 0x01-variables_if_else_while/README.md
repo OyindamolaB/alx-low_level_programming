@@ -6,3 +6,4 @@ Printing alphabet in lowercase,followed by a new line
 Printing single digit numbers of base 10
 Printing all single digit numbers
 Prints the lowercase alphabet in reverse
+Printing all the numbers of base 16 in lowercase
