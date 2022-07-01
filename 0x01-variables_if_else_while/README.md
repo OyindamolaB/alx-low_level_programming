@@ -10,3 +10,4 @@ Printing all the numbers of base 16 in lowercase
 Printing all combinations of single-digit numbers
 Printing all possible combinations of two digits
 Printing all possible combinations of three digits
+Printing all combinations
