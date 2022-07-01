@@ -6,3 +6,4 @@ Printing words
 Printing words
 Printing words 2
 Printing the size of various types
+Generating the assembly code
