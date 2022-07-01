@@ -5,3 +5,4 @@ Compiling and creating an executable
 Printing words
 Printing words
 Printing words 2
+Printing the size of various types
