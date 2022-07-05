@@ -6,3 +6,4 @@ Checking lowercase character
 Alphabetic character
 Printing the sign of a number
 Computing the absolute value of an integer
+Prints the last digit of a number
