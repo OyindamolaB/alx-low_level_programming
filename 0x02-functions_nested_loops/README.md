@@ -11,3 +11,4 @@ Prints every minute of a day
 Prints the 9 times table
 Add two integers
 Prints the natural numbers
+Printing n times table
