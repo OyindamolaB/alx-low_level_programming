@@ -1,1 +1,2 @@
 Printing putchar
+Printing char
