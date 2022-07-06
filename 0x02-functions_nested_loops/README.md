@@ -13,3 +13,4 @@ Add two integers
 Prints the natural numbers
 Printing n times table
 Prints the sum of multiples
+Printing first 50
