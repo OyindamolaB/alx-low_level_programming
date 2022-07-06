@@ -12,3 +12,4 @@ Prints the 9 times table
 Add two integers
 Prints the natural numbers
 Printing n times table
+Prints the sum of multiples
