@@ -15,3 +15,4 @@ Printing n times table
 Prints the sum of multiples
 Printing first 50
 Prints sum of even fibonacci
+Prints first 98
