@@ -14,3 +14,4 @@ Prints the natural numbers
 Printing n times table
 Prints the sum of multiples
 Printing first 50
+Prints sum of even fibonacci
