@@ -3,18 +3,15 @@
 
 /**
 *_puts - prints a string
-*@str: string
+*@str: string to print
 *
 *Return: the length of the string
 */
 
 void _puts(char *str)
 {
-int i = 0;
-while (str[i] != '\0')
-{
-_putchar(str[i]);
-i++
-}
+while (*str)
+_putchar(*str++);
+
 _putchar('\n');
 }
