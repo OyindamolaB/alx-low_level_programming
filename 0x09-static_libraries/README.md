@@ -1,1 +1,1 @@
-Creating a static library
+Static Library
