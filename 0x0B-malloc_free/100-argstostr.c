@@ -6,7 +6,7 @@
 * @av: height of grid
 * Return: pointer to a new string, or NULL if it fails
 */
-char *argstostr(int ac, char **av)
+char *argstostr(int ac, int **av)
 {
 int i, j, k = 0, n = 0;
 char *s;
